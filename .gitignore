@@ -1,0 +1,41 @@
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+dist
+tmp
+/out-tsc
+
+# Dependencies
+node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Python
+notebooks/auto-fr-venv
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+
+# IDE - VSCode
+.vscode
+
+# Misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2624 @@
+[
+  {
+    "id": "236",
+    "fullname": "Bose QuietComfort 20/QC20",
+    "url": "https://www.rtings.com/headphones/reviews/bose/quietcomfort-20-qc20",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "245",
+    "fullname": "Sennheiser HD 650",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-650",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "246",
+    "fullname": "Sennheiser HD 598",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-598",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "290",
+    "fullname": "Sennheiser HD 800 S",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-800-s",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "295",
+    "fullname": "Audio-Technica ATH-M50x",
+    "url": "https://www.rtings.com/headphones/reviews/audio-technica/ath-m50x",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "296",
+    "fullname": "Audio-Technica ATH-M40x",
+    "url": "https://www.rtings.com/headphones/reviews/audio-technica/ath-m40x",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "299",
+    "fullname": "Sennheiser HD 280 Pro 2016",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-280-pro-2016",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "311",
+    "fullname": "Audio-Technica ATH-M20x",
+    "url": "https://www.rtings.com/headphones/reviews/audio-technica/ath-m20x",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "322",
+    "fullname": "Bose SoundLink 2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/soundlink-2-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "325",
+    "fullname": "Sennheiser HD 600",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-600",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "327",
+    "fullname": "AKG K712 PRO",
+    "url": "https://www.rtings.com/headphones/reviews/akg/k712-pro",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "329",
+    "fullname": "Beyerdynamic DT 990 PRO",
+    "url": "https://www.rtings.com/headphones/reviews/beyerdynamic/dt-990-pro",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "332",
+    "fullname": "AKG K702",
+    "url": "https://www.rtings.com/headphones/reviews/akg/k702",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "353",
+    "fullname": "HiFiMan HE-400i",
+    "url": "https://www.rtings.com/headphones/reviews/hifiman/he-400i",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "358",
+    "fullname": "Bose SoundSport Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/soundsport-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "371",
+    "fullname": "Philips SHP9500",
+    "url": "https://www.rtings.com/headphones/reviews/philips/shp9500",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "386",
+    "fullname": "Sony MDR-7506",
+    "url": "https://www.rtings.com/headphones/reviews/sony/mdr-7506",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "387",
+    "fullname": "AKG K240 MKII",
+    "url": "https://www.rtings.com/headphones/reviews/akg/k240-mkii",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "406",
+    "fullname": "Apple EarPods",
+    "url": "https://www.rtings.com/headphones/reviews/apple/earpods",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "408",
+    "fullname": "Sennheiser HD 599",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-599",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "431",
+    "fullname": "Beyerdynamic DT 880",
+    "url": "https://www.rtings.com/headphones/reviews/beyerdynamic/dt-880",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "432",
+    "fullname": "1More Triple Driver",
+    "url": "https://www.rtings.com/headphones/reviews/1more/triple-driver",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "439",
+    "fullname": "Superlux HD 668B",
+    "url": "https://www.rtings.com/headphones/reviews/superlux/hd-668b",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "440",
+    "fullname": "Beyerdynamic DT 770 PRO",
+    "url": "https://www.rtings.com/headphones/reviews/beyerdynamic/dt-770-pro",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "466",
+    "fullname": "Cowin E7 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/cowin/e7-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "470",
+    "fullname": "Sony MDR-XB50AP Extra Bass",
+    "url": "https://www.rtings.com/headphones/reviews/sony/mdr-xb50ap-extra-bass",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "471",
+    "fullname": "Superlux HD 681",
+    "url": "https://www.rtings.com/headphones/reviews/superlux/hd-681",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "500",
+    "fullname": "Sennheiser Game One Gaming Headset",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/game-one-gaming-headset",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "502",
+    "fullname": "HyperX Cloud 2/Cloud II",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-2-cloud-ii",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "504",
+    "fullname": "Logitech G433",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g433",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "505",
+    "fullname": "Logitech G533 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g533-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "509",
+    "fullname": "HyperX Cloud Stinger",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-stinger",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "531",
+    "fullname": "Sony WH-1000XM2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-1000xm2-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "533",
+    "fullname": "Beats Studio3 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/beats/studio3-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "559",
+    "fullname": "Astro A10",
+    "url": "https://www.rtings.com/headphones/reviews/astro/a10",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "560",
+    "fullname": "Bose SoundSport Free Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/soundsport-free-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "564",
+    "fullname": "Turtle Beach Stealth 700 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/turtle-beach/stealth-700-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "565",
+    "fullname": "Bose QuietComfort 35 II/QC35 II Wireless 2018",
+    "url": "https://www.rtings.com/headphones/reviews/bose/quietcomfort-35-ii-qc35-ii-wireless-2018",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "589",
+    "fullname": "HiFiMan Sundara 2018",
+    "url": "https://www.rtings.com/headphones/reviews/hifiman/sundara-2018",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "590",
+    "fullname": "Astro A20 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/astro/a20-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "592",
+    "fullname": "Plantronics RIG 800LX Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/plantronics/rig-800lx-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "612",
+    "fullname": "Jabra Elite 65t Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-65t-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "616",
+    "fullname": "SteelSeries Arctis Pro GameDAC",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-pro-gamedac",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "627",
+    "fullname": "HyperX Cloud Alpha",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-alpha",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "628",
+    "fullname": "Beyerdynamic DT 1990 PRO",
+    "url": "https://www.rtings.com/headphones/reviews/beyerdynamic/dt-1990-pro",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "629",
+    "fullname": "HyperX Cloud Flight",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-flight",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "635",
+    "fullname": "Shure SE215",
+    "url": "https://www.rtings.com/headphones/reviews/shure/se215",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "645",
+    "fullname": "Skullcandy Jib Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/jib-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "649",
+    "fullname": "Logitech G933 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g933-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "650",
+    "fullname": "Sony WH-CH700N Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-ch700n-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "658",
+    "fullname": "Jabra Elite Active 65t Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-active-65t-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "670",
+    "fullname": "HiFiMan Ananda",
+    "url": "https://www.rtings.com/headphones/reviews/hifiman/ananda",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "678",
+    "fullname": "Sony WH-1000XM3 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-1000xm3-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "689",
+    "fullname": "Audeze Mobius",
+    "url": "https://www.rtings.com/headphones/reviews/audeze/mobius",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "691",
+    "fullname": "Audeze LCD 2 Classic/LC2C",
+    "url": "https://www.rtings.com/headphones/reviews/audeze/lcd-2-classic-lc2c",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "698",
+    "fullname": "KZ AS10",
+    "url": "https://www.rtings.com/headphones/reviews/kz/as10",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "709",
+    "fullname": "Audio-Technica ATH-M50xBT",
+    "url": "https://www.rtings.com/headphones/reviews/audio-technica/ath-m50xbt",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "714",
+    "fullname": "Beyerdynamic DT 1770 PRO",
+    "url": "https://www.rtings.com/headphones/reviews/beyerdynamic/dt-1770-pro",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "735",
+    "fullname": "SoundPeats TrueFree/True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/soundpeats/truefree-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "741",
+    "fullname": "Turtle Beach Recon 200",
+    "url": "https://www.rtings.com/headphones/reviews/turtle-beach/recon-200",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "751",
+    "fullname": "SteelSeries Arctis Pro Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-pro-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "753",
+    "fullname": "Corsair HS70 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/hs70-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "755",
+    "fullname": "JBL Endurance Peak True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/endurance-peak-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "762",
+    "fullname": "Plantronics BackBeat Go 810 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/plantronics/backbeat-go-810-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "767",
+    "fullname": "Razer Nari Ultimate Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/razer/nari-ultimate-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "770",
+    "fullname": "Sennheiser HD 4.40 BT Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-4-40-bt-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "771",
+    "fullname": "SteelSeries Arctis 7 2019 Edition Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-7-2019-edition-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "772",
+    "fullname": "Corsair HS50",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/hs50",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "796",
+    "fullname": "Razer Kraken Tournament Edition",
+    "url": "https://www.rtings.com/headphones/reviews/razer/kraken-tournament-edition",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "797",
+    "fullname": "Apple AirPods (2nd generation) Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/apple/airpods-2nd-generation-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "801",
+    "fullname": "Logitech G935 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g935-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "803",
+    "fullname": "JLab Audio JBuds Air Truly Wireless ",
+    "url": "https://www.rtings.com/headphones/reviews/jlab-audio/jbuds-air-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "808",
+    "fullname": "Astro A40 TR Headset + MixAmp Pro 2017",
+    "url": "https://www.rtings.com/headphones/reviews/astro/a40-tr-headset-mixamp-pro-2017",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "809",
+    "fullname": "KZ ZSN",
+    "url": "https://www.rtings.com/headphones/reviews/kz/zsn",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "814",
+    "fullname": "JBL Live 650 BTNC Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-650-btnc-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "815",
+    "fullname": "SteelSeries Arctis 5 2019 Edition",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-5-2019-edition",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "816",
+    "fullname": "Sennheiser HD 660 S",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-660-s",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "817",
+    "fullname": "Logitech G432",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g432",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "819",
+    "fullname": "KZ ZST",
+    "url": "https://www.rtings.com/headphones/reviews/kz/zst",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "821",
+    "fullname": "Jabra Elite 85h Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-85h-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "827",
+    "fullname": "Astro A40 TR Headset + MixAmp Pro 2019",
+    "url": "https://www.rtings.com/headphones/reviews/astro/a40-tr-headset-mixamp-pro-2019",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "831",
+    "fullname": "SteelSeries Arctis 3 2019 Edition Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-3-2019-edition-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "832",
+    "fullname": "SteelSeries Arctis 9X Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-9x-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "835",
+    "fullname": "Sony WH-XB700 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-xb700-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "854",
+    "fullname": "Beats Powerbeats Pro Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/beats/powerbeats-pro-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "857",
+    "fullname": "Turtle Beach Recon 70",
+    "url": "https://www.rtings.com/headphones/reviews/turtle-beach/recon-70",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "858",
+    "fullname": "JBL Live 500BT Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-500bt-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "886",
+    "fullname": "Sony WH-XB900N Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-xb900n-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "889",
+    "fullname": "Razer Kraken X",
+    "url": "https://www.rtings.com/headphones/reviews/razer/kraken-x",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "890",
+    "fullname": "SteelSeries Arctis 1",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-1",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "891",
+    "fullname": "Sennheiser HD 58X Jubilee",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-58x-jubilee",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "896",
+    "fullname": "Bose 700 Headphones Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/700-headphones-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "900",
+    "fullname": "Sony WI-C310 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wi-c310-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "902",
+    "fullname": "Sony WI-C200 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wi-c200-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "911",
+    "fullname": "Logitech G Pro X Gaming Headset",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g-pro-x-gaming-headset",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "917",
+    "fullname": "Sony WF-1000XM3 Truly Wireless ",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wf-1000xm3-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "927",
+    "fullname": "Astro A50 Gen 4 Wireless 2019",
+    "url": "https://www.rtings.com/headphones/reviews/astro/a50-gen-4-wireless-2019",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "934",
+    "fullname": "AfterShokz Aeropex Bone Conduction",
+    "url": "https://www.rtings.com/headphones/reviews/aftershokz/aeropex-bone-conduction",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1585",
+    "fullname": "Sennheiser Momentum 3 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/momentum-3-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1619",
+    "fullname": "Bowers & Wilkins PX7 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bowers-wilkins/px7-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1622",
+    "fullname": "Skullcandy Sesh Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/sesh-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1623",
+    "fullname": "Raycon E55 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/raycon/e55-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1624",
+    "fullname": "Corsair Virtuoso RGB Wireless SE",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/virtuoso-rgb-wireless-se",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1625",
+    "fullname": "Apple AirPods Pro Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/apple/airpods-pro-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1626",
+    "fullname": "Beats Solo Pro Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/beats/solo-pro-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1641",
+    "fullname": "Jabra Elite 75t Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-75t-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1659",
+    "fullname": "Sennheiser PXC 550-II Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/pxc-550-ii-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1663",
+    "fullname": "Anker SoundCore Liberty Air 2 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-liberty-air-2-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1664",
+    "fullname": "Anker SoundCore Life P2 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-life-p2-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1665",
+    "fullname": "Raycon E25 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/raycon/e25-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1666",
+    "fullname": "Razer Hammerhead True Wireless 2019",
+    "url": "https://www.rtings.com/headphones/reviews/razer/hammerhead-true-wireless-2019",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1671",
+    "fullname": "AKG K371",
+    "url": "https://www.rtings.com/headphones/reviews/akg/k371",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1708",
+    "fullname": "Sony WI-XB400 EXTRA BASS Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wi-xb400-extra-bass-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1709",
+    "fullname": "Sony WH-CH510 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-ch510-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1710",
+    "fullname": "Anker Soundcore Liberty 2 Pro Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-liberty-2-pro-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1723",
+    "fullname": "TOZO T10 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/tozo/t10-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1729",
+    "fullname": "Anker Soundcore Life Q20 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-life-q20-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1786",
+    "fullname": "TOZO T6 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/tozo/t6-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1791",
+    "fullname": "Samsung Galaxy Buds+ Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/samsung/galaxy-buds-plus-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1797",
+    "fullname": "HyperX Cloud Flight S",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-flight-s",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1799",
+    "fullname": "JBL TUNE 220TWS Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-220tws-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1800",
+    "fullname": "Sony WI-1000XM2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wi-1000xm2-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1801",
+    "fullname": "Jabra Elite Active 75t Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-active-75t-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "2056",
+    "fullname": "Philips Fidelio X2HR",
+    "url": "https://www.rtings.com/headphones/reviews/philips/fidelio-x2hr",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "8921",
+    "fullname": "TaoTronics SoundLiberty 79 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/taotronics/soundliberty-79-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "10667",
+    "fullname": "Sennheiser MOMENTUM True Wireless 2",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/momentum-true-wireless-2",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "13055",
+    "fullname": "Google Pixel Buds 2020 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/google/pixel-buds-2020-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "9022",
+    "fullname": "JBL CLUB 700BT Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/club-700bt-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "13187",
+    "fullname": "JBL LIVE 300TWS Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-300tws-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "5905",
+    "fullname": "HyperX Cloud Alpha S",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-alpha-s",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "12963",
+    "fullname": "Razer Opus Wireless 2020",
+    "url": "https://www.rtings.com/headphones/reviews/razer/opus-wireless-2020",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "13986",
+    "fullname": "JBL Quantum 400",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/quantum-400",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "13988",
+    "fullname": "JBL Quantum ONE",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/quantum-one",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "9820",
+    "fullname": "Razer Kraken Ultimate",
+    "url": "https://www.rtings.com/headphones/reviews/razer/kraken-ultimate",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "5455",
+    "fullname": "SteelSeries Arctis 1 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-1-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "8289",
+    "fullname": "JBL TUNE 750BTNC Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-750btnc-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "13293",
+    "fullname": "JBL Quantum 100",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/quantum-100",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "12049",
+    "fullname": "Shure AONIC 50 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/shure/aonic-50-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "8123",
+    "fullname": "Sony WH-H910N/h.ear on 3 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-h910n-h-ear-on-3-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "12431",
+    "fullname": "Sony WF-XB700 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wf-xb700-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "15399",
+    "fullname": "Jabra Evolve2 85 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/evolve2-85-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "14809",
+    "fullname": "Jabra Evolve2 65 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/evolve2-65-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "14720",
+    "fullname": "Anker Soundcore Life Dot 2 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-life-dot-2-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "15459",
+    "fullname": "Skullcandy Indy Evo True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/indy-evo-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "12001",
+    "fullname": "Skullcandy Indy Fuel Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/indy-fuel-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "15138",
+    "fullname": "TOZO T12 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/tozo/t12-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "13563",
+    "fullname": "Sony WF-SP800N Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wf-sp800n-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "11955",
+    "fullname": "Sennheiser HD 450BT Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-450bt-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "8341",
+    "fullname": "Corsair VOID ELITE",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/void-elite",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "15396",
+    "fullname": "FIIL T1X True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/fiil/t1x-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "16542",
+    "fullname": "Razer BlackShark V2 X",
+    "url": "https://www.rtings.com/headphones/reviews/razer/blackshark-v2-x",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "16489",
+    "fullname": "Razer BlackShark V2",
+    "url": "https://www.rtings.com/headphones/reviews/razer/blackshark-v2",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "16285",
+    "fullname": "Logitech G PRO X WIRELESS LIGHTSPEED Gaming Headset",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g-pro-x-wireless-lightspeed-gaming-headset",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "16037",
+    "fullname": "Samsung Galaxy Buds Live Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/samsung/galaxy-buds-live-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "16490",
+    "fullname": "Sony WH-1000XM4 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-1000xm4-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "17020",
+    "fullname": "Turtle Beach Stealth 600 Gen 2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/turtle-beach/stealth-600-gen-2-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "12432",
+    "fullname": "Sony WH-CH710N Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-ch710n-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "17024",
+    "fullname": "Logitech G733 LIGHTSPEED Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g733-lightspeed-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "17548",
+    "fullname": "HyperX Cloud Stinger S",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-stinger-s",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "16250",
+    "fullname": "Philips SHP9600",
+    "url": "https://www.rtings.com/headphones/reviews/philips/shp9600",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "14780",
+    "fullname": "Samsung AKG Type-C",
+    "url": "https://www.rtings.com/headphones/reviews/samsung/akg-type-c",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "17708",
+    "fullname": "Skullcandy Crusher Evo Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/crusher-evo-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18005",
+    "fullname": "Skullcandy Sesh Evo True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/sesh-evo-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18040",
+    "fullname": "SteelSeries Arctis 9 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-9-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18038",
+    "fullname": "Skullcandy Jib True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/jib-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18403",
+    "fullname": "Razer BlackShark V2 Pro Wireless 2020",
+    "url": "https://www.rtings.com/headphones/reviews/razer/blackshark-v2-pro-wireless-2020",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18453",
+    "fullname": "JLab Audio JBuds Air ANC Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jlab-audio/jbuds-air-anc-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18492",
+    "fullname": "Sennheiser HD 560S",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-560s",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "18455",
+    "fullname": "Anker Soundcore Life Q30 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-life-q30-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "17001",
+    "fullname": "Turtle Beach Stealth 700 Gen 2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/turtle-beach/stealth-700-gen-2-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "17837",
+    "fullname": "Bose Sport Earbuds Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/sport-earbuds-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "17836",
+    "fullname": "Bose QuietComfort Earbuds Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/quietcomfort-earbuds-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18987",
+    "fullname": "Sennheiser HD 6XX",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-6xx",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "16488",
+    "fullname": "Philips Fidelio X3",
+    "url": "https://www.rtings.com/headphones/reviews/philips/fidelio-x3",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19100",
+    "fullname": "JBL Tune 125TWS Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-125tws-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19338",
+    "fullname": "SoundPeats TrueFree 2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/soundpeats/truefree-2-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "17587",
+    "fullname": "Sennheiser CX 400BT True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/cx-400bt-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19422",
+    "fullname": "Corsair HS75 XB WIRELESS",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/hs75-xb-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18946",
+    "fullname": "SteelSeries Arctis 7P Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-7p-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19724",
+    "fullname": "Beats Solo3 2019 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/beats/solo3-2019-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19746",
+    "fullname": "Audeze Penrose Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/audeze/penrose-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18452",
+    "fullname": "Jabra Elite 85t Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-85t-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19882",
+    "fullname": "Corsair HS70 Bluetooth",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/hs70-bluetooth",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "17679",
+    "fullname": "JBL Endurance Peak II True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/endurance-peak-ii-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19944",
+    "fullname": "Razer Kaira Pro Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/razer/kaira-pro-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "17678",
+    "fullname": "JBL CLUB PRO+ TWS True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/club-pro-plus-tws-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19144",
+    "fullname": "Beats Flex Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/beats/flex-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "17100",
+    "fullname": "TaoTronics SoundLiberty 94 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/taotronics/soundliberty-94-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19667",
+    "fullname": "Sony PULSE 3D Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/pulse-3d-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "18009",
+    "fullname": "ROCCAT Elo 7.1 Air Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/roccat/elo-7-1-air-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19145",
+    "fullname": "OnePlus Buds Z Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/oneplus/buds-z-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "4754",
+    "fullname": "Cooler Master MH751",
+    "url": "https://www.rtings.com/headphones/reviews/cooler-master/mh751",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18785",
+    "fullname": "Skullcandy Indy ANC True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/indy-anc-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "20561",
+    "fullname": "Creative Outlier Air V2 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/creative/outlier-air-v2-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "17682",
+    "fullname": "JBL Tune 225TWS True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-225tws-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19601",
+    "fullname": "HyperX Cloud 2/Cloud II Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-2-cloud-ii-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "20720",
+    "fullname": "Razer Hammerhead True Wireless Pro",
+    "url": "https://www.rtings.com/headphones/reviews/razer/hammerhead-true-wireless-pro",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18787",
+    "fullname": "Skullcandy Hesh Evo Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/hesh-evo-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "16092",
+    "fullname": "Apple AirPods Max Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/apple/airpods-max-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "18786",
+    "fullname": "Skullcandy Hesh ANC Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/hesh-anc-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "20726",
+    "fullname": "Astro A20 Gen 2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/astro/a20-gen-2-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "8919",
+    "fullname": "Drop + THX Panda Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/drop/thx-panda-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19140",
+    "fullname": "Mpow X5 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/mpow/x5-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "21740",
+    "fullname": "Anker Soundcore Liberty Air 2 Pro Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-liberty-air-2-pro-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "20601",
+    "fullname": "Samsung Galaxy Buds Pro Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/samsung/galaxy-buds-pro-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "21963",
+    "fullname": "HyperX Cloud Revolver + 7.1",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-revolver-7-1",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "21227",
+    "fullname": "Wyze Noise-Cancelling Headphones Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/wyze/noise-cancelling-headphones-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "13775",
+    "fullname": "TOZO NC9 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/tozo/nc9-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22078",
+    "fullname": "EPOS GTW 270 Hybrid Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/epos/gtw-270-hybrid-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22379",
+    "fullname": "Skullcandy Spoke True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/spoke-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19992",
+    "fullname": "Mpow MDots True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/mpow/mdots-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22472",
+    "fullname": "Bose Sport Open Earbuds Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/sport-open-earbuds-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22632",
+    "fullname": "Cowin Apex Elite Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/cowin/apex-elite-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "4288",
+    "fullname": "HiFiMan Arya",
+    "url": "https://www.rtings.com/headphones/reviews/hifiman/arya",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22706",
+    "fullname": "Anker Soundcore Life A2 NC Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-life-a2-nc-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22775",
+    "fullname": "Drop + Sennheiser HD 8XX",
+    "url": "https://www.rtings.com/headphones/reviews/drop/sennheiser-hd-8xx",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22756",
+    "fullname": "TOZO NC2 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/tozo/nc2-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22776",
+    "fullname": "Mpow X6 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/mpow/x6-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22722",
+    "fullname": "Xbox Wireless Headset",
+    "url": "https://www.rtings.com/headphones/reviews/xbox/wireless-headset",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "22954",
+    "fullname": "TOZO NC7 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/tozo/nc7-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "19719",
+    "fullname": "EarFun Air Pro True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/earfun/air-pro-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "21652",
+    "fullname": "JBL Tune 510BT Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-510bt-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "22355",
+    "fullname": "Focal Celestee",
+    "url": "https://www.rtings.com/headphones/reviews/focal/celestee",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "23774",
+    "fullname": "Razer Kraken V3 X",
+    "url": "https://www.rtings.com/headphones/reviews/razer/kraken-v3-x",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "23743",
+    "fullname": "Focal Clear Mg",
+    "url": "https://www.rtings.com/headphones/reviews/focal/clear-mg",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24039",
+    "fullname": "Bang & Olufsen Beoplay Portal",
+    "url": "https://www.rtings.com/headphones/reviews/bang-olufsen/beoplay-portal",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "22685",
+    "fullname": "Ultimate Ears FITS Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/ultimate-ears/fits-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24041",
+    "fullname": "Logitech G333",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g333",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24106",
+    "fullname": "JBL Live 460NC Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-460nc-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24208",
+    "fullname": "Skullcandy Dime True Wireless ",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/dime-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18949",
+    "fullname": "SteelSeries Arctis 7X Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-7x-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "21651",
+    "fullname": "JBL Tune 660NC Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-660nc-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24446",
+    "fullname": "Amazon Echo Buds True Wireless 2021 (2nd generation)",
+    "url": "https://www.rtings.com/headphones/reviews/amazon/echo-buds-true-wireless-2021-2nd-generation",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24456",
+    "fullname": "JBL Live 660NC Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-660nc-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "21568",
+    "fullname": "JBL Live Pro+ TWS True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-pro-plus-tws-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24748",
+    "fullname": "Anker Soundcore Life Q35 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-life-q35-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24713",
+    "fullname": "Bowers & Wilkins Pi7 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bowers-wilkins/pi7-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24884",
+    "fullname": "HiFiMan Sundara 2020",
+    "url": "https://www.rtings.com/headphones/reviews/hifiman/sundara-2020",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "22543",
+    "fullname": "Drop + Sennheiser/EPOS PC38X",
+    "url": "https://www.rtings.com/headphones/reviews/drop/sennheiser-epos-pc38x",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "17680",
+    "fullname": "JBL Live Free NC+ TWS True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-free-nc-plus-tws-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "24969",
+    "fullname": "Turtle Beach Recon 500",
+    "url": "https://www.rtings.com/headphones/reviews/turtle-beach/recon-500",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25094",
+    "fullname": "Wyze Buds Pro Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/wyze/buds-pro-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25347",
+    "fullname": "Corsair VIRTUOSO RGB Wireless XT",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/virtuoso-rgb-wireless-xt",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25527",
+    "fullname": "SteelSeries Arctis Prime",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-prime",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25606",
+    "fullname": "ROCCAT Syn Pro Air Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/roccat/syn-pro-air-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25832",
+    "fullname": "Google Pixel Buds A-Series Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/google/pixel-buds-a-series-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25985",
+    "fullname": "Sony WF-1000XM4 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wf-1000xm4-truly-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "25978",
+    "fullname": "Jaybird Vista 2 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jaybird/vista-2-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25365",
+    "fullname": "JBL Tour One Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tour-one-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25383",
+    "fullname": "JBL Tour Pro+ TWS True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tour-pro-plus-tws-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25881",
+    "fullname": "Cambridge Audio Melomania 1+ True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/cambridge-audio/melomania-1-plus-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "26115",
+    "fullname": "Beats Studio Buds True Wireless ",
+    "url": "https://www.rtings.com/headphones/reviews/beats/studio-buds-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "5855",
+    "fullname": "Sony MH755 (Fake)",
+    "url": "https://www.rtings.com/headphones/reviews/sony/mh755-fake",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "26074",
+    "fullname": "Razer Opus X Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/razer/opus-x-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "26273",
+    "fullname": "Anker SoundCore Life P3 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-life-p3-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "26491",
+    "fullname": "Logitech G335",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g335",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25751",
+    "fullname": "Sennheiser CX True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/cx-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "26804",
+    "fullname": "Razer Barracuda X Wireless 2021",
+    "url": "https://www.rtings.com/headphones/reviews/razer/barracuda-x-wireless-2021",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "26805",
+    "fullname": "JBL Tune 760NC Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-760nc-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "4763",
+    "fullname": "EPOS Sennheiser GSP 600",
+    "url": "https://www.rtings.com/headphones/reviews/epos/sennheiser-gsp-600",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "26978",
+    "fullname": "Skullcandy Push Active True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/push-active-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "26979",
+    "fullname": "Skullcandy Grind Fuel True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/grind-fuel-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27470",
+    "fullname": "Razer Hammerhead True Wireless 2021",
+    "url": "https://www.rtings.com/headphones/reviews/razer/hammerhead-true-wireless-2021",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27244",
+    "fullname": "Nothing Ear (1) Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/nothing/ear-1-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27472",
+    "fullname": "Samsung Galaxy Buds2 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/samsung/galaxy-buds2-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27588",
+    "fullname": "Audio-Technica ATH-M50xBT2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/audio-technica/ath-m50xbt2-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27246",
+    "fullname": "Klipsch T5 II True Wireless ANC",
+    "url": "https://www.rtings.com/headphones/reviews/klipsch/t5-ii-true-wireless-anc",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27623",
+    "fullname": "Xbox Stereo Headset",
+    "url": "https://www.rtings.com/headphones/reviews/xbox/stereo-headset",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27625",
+    "fullname": "Corsair HS80 RGB WIRELESS",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/hs80-rgb-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "26568",
+    "fullname": "JBL Vibe 100TWS True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/vibe-100tws-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "26771",
+    "fullname": "Raycon The Fitness Earbuds (2021 Edition) True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/raycon/the-fitness-earbuds-2021-edition-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27299",
+    "fullname": "OnePlus Buds Pro Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/oneplus/buds-pro-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "2031",
+    "fullname": "Samson SR850",
+    "url": "https://www.rtings.com/headphones/reviews/samson/sr850",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27044",
+    "fullname": "Bose QuietComfort 45/QC45 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/quietcomfort-45-qc45-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "27880",
+    "fullname": "EarFun Air Pro 2 True Wireless 2021",
+    "url": "https://www.rtings.com/headphones/reviews/earfun/air-pro-2-true-wireless-2021",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27696",
+    "fullname": "Turtle Beach Recon 200 Gen 2",
+    "url": "https://www.rtings.com/headphones/reviews/turtle-beach/recon-200-gen-2",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28111",
+    "fullname": "Jabra Elite 3 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-3-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28292",
+    "fullname": "Logitech G435 LIGHTSPEED Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g435-lightspeed-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "27307",
+    "fullname": "JLab Audio GO Air POP True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jlab-audio/go-air-pop-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28446",
+    "fullname": "SteelSeries TUSQ",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/tusq",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28295",
+    "fullname": "Sennheiser CX Plus True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/cx-plus-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28495",
+    "fullname": "Sony MH755",
+    "url": "https://www.rtings.com/headphones/reviews/sony/mh755",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28575",
+    "fullname": "Wyze Buds Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/wyze/buds-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28722",
+    "fullname": "Sony WH-XB910N Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-xb910n-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "28723",
+    "fullname": "Sony WF-C500 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wf-c500-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28928",
+    "fullname": "Anker Soundcore Liberty 3 Pro Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-liberty-3-pro-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28112",
+    "fullname": "Jabra Elite 7 Active True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-7-active-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28113",
+    "fullname": "Jabra Elite 7 Pro True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-7-pro-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "6678",
+    "fullname": "AKG N700NC M2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/akg/n700nc-m2-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "29239",
+    "fullname": "Apple AirPods (3rd generation) Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/apple/airpods-3rd-generation-truly-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "29249",
+    "fullname": "JBL Tune 130NC TWS Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-130nc-tws-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29273",
+    "fullname": "JBL TUNE 230NC TWS True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-230nc-tws-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29335",
+    "fullname": "Razer Kraken V3",
+    "url": "https://www.rtings.com/headphones/reviews/razer/kraken-v3",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29336",
+    "fullname": "Razer Kraken V3 HyperSense",
+    "url": "https://www.rtings.com/headphones/reviews/razer/kraken-v3-hypersense",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "28576",
+    "fullname": "Razer Kaira X",
+    "url": "https://www.rtings.com/headphones/reviews/razer/kaira-x",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29245",
+    "fullname": "SteelSeries Arctis 7P+ Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-7p-plus-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29242",
+    "fullname": "Beats Fit Pro True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/beats/fit-pro-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "4876",
+    "fullname": "Meze Empyrean",
+    "url": "https://www.rtings.com/headphones/reviews/meze/empyrean",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "30204",
+    "fullname": "MOONDROP KATO",
+    "url": "https://www.rtings.com/headphones/reviews/moondrop/kato",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29111",
+    "fullname": "7HZ Timeless",
+    "url": "https://www.rtings.com/headphones/reviews/7hz/timeless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29337",
+    "fullname": "Razer Kraken V3 Pro Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/razer/kraken-v3-pro-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "30952",
+    "fullname": "Logitech G535 LIGHTSPEED Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g535-lightspeed-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "28577",
+    "fullname": "Beyerdynamic DT 900 PRO X",
+    "url": "https://www.rtings.com/headphones/reviews/beyerdynamic/dt-900-pro-x",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "31203",
+    "fullname": "Jabra Elite 4 Active True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-4-active-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "31341",
+    "fullname": "Shokz OpenRun Bone Conduction",
+    "url": "https://www.rtings.com/headphones/reviews/shokz/openrun-bone-conduction",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "31212",
+    "fullname": "Shokz OpenRun Pro Bone Conduction",
+    "url": "https://www.rtings.com/headphones/reviews/shokz/openrun-pro-bone-conduction",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "31602",
+    "fullname": "Skullcandy Dime 2 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/dime-2-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29246",
+    "fullname": "SteelSeries Arctis 7+ Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-7-plus-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29106",
+    "fullname": "HiFiMan Edition XS",
+    "url": "https://www.rtings.com/headphones/reviews/hifiman/edition-xs",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "31924",
+    "fullname": "Sony LinkBuds Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/linkbuds-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "32188",
+    "fullname": "Astro A10 Gen 2",
+    "url": "https://www.rtings.com/headphones/reviews/astro/a10-gen-2",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "27695",
+    "fullname": "Razer Opus Wireless 2021",
+    "url": "https://www.rtings.com/headphones/reviews/razer/opus-wireless-2021",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "32189",
+    "fullname": "Sennheiser MOMENTUM True Wireless 3",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/momentum-true-wireless-3",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "25784",
+    "fullname": "MOONDROP Aria",
+    "url": "https://www.rtings.com/headphones/reviews/moondrop/aria",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "32552",
+    "fullname": "RØDE NTH-100M",
+    "url": "https://www.rtings.com/headphones/reviews/rode/nth-100m",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "31700",
+    "fullname": "HyperX Cloud Alpha Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-alpha-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "30296",
+    "fullname": "TREBLAB Z7 Pro Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/treblab/z7-pro-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "33024",
+    "fullname": "Sony WH-1000XM5 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-1000xm5-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "33683",
+    "fullname": "SteelSeries Arctis Nova Pro Wireless [PC, PS, Xbox]",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-nova-pro-wireless-pc-ps-xbox",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "33685",
+    "fullname": "SteelSeries Arctis Nova Pro",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-nova-pro",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "33844",
+    "fullname": "Razer Barracuda Pro Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/razer/barracuda-pro-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "34070",
+    "fullname": "Sony INZONE H3",
+    "url": "https://www.rtings.com/headphones/reviews/sony/inzone-h3",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "34071",
+    "fullname": "Sony INZONE H7 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/inzone-h7-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "34072",
+    "fullname": "Sony INZONE H9 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/inzone-h9-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "23660",
+    "fullname": "HiFiMan HE400se",
+    "url": "https://www.rtings.com/headphones/reviews/hifiman/he400se",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "34466",
+    "fullname": "Logitech G735 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g735-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "34594",
+    "fullname": "Razer Barracuda Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/razer/barracuda-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "34599",
+    "fullname": "Samsung Galaxy Buds2 Pro True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/samsung/galaxy-buds2-pro-true-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "33407",
+    "fullname": "Google Pixel Buds Pro Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/google/pixel-buds-pro-truly-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "33205",
+    "fullname": "Sony LinkBuds S Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/linkbuds-s-truly-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "34033",
+    "fullname": "Sennheiser MOMENTUM 4 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/momentum-4-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "32825",
+    "fullname": "JBL Live Pro 2 TWS True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-pro-2-tws-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "31023",
+    "fullname": "Avantree HT5009 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/avantree/ht5009-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "34783",
+    "fullname": "SteelSeries Arctis Nova 1",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-nova-1",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "34784",
+    "fullname": "SteelSeries Arctis Nova 3",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-nova-3",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "34785",
+    "fullname": "SteelSeries Arctis Nova 7 Wireless [7, 7P, 7X]",
+    "url": "https://www.rtings.com/headphones/reviews/steelseries/arctis-nova-7-wireless-7-7p-7x",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "34852",
+    "fullname": "Anker Soundcore Space Q45 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-space-q45-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "34853",
+    "fullname": "Anker Soundcore Space A40 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-space-a40-truly-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "34920",
+    "fullname": "Jabra Elite 5 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-5-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "18088",
+    "fullname": "Bose QuietComfort 35 II Gaming Headset​",
+    "url": "https://www.rtings.com/headphones/reviews/bose/quietcomfort-35-ii-gaming-headset",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "34817",
+    "fullname": "HyperX Cloud Stinger 2",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-stinger-2",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "29490",
+    "fullname": "Apple AirPods Pro (2nd generation) Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/apple/airpods-pro-2nd-generation-truly-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "34796",
+    "fullname": "Bose QuietComfort Earbuds II Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/quietcomfort-earbuds-ii-truly-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "34769",
+    "fullname": "Insignia Digital Wireless Headphones",
+    "url": "https://www.rtings.com/headphones/reviews/insignia/digital-wireless-headphones",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "35142",
+    "fullname": "Skullcandy Riff Wireless 2",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/riff-wireless-2",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "35287",
+    "fullname": "Anker Soundcore Liberty 4 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-liberty-4-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "35168",
+    "fullname": "Astro A30 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/astro/a30-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "1955",
+    "fullname": "Audio-Technica ATH-R70x",
+    "url": "https://www.rtings.com/headphones/reviews/audio-technica/ath-r70x",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "35243",
+    "fullname": "Nothing Ear (stick) Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/nothing/ear-stick-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "35660",
+    "fullname": "Focal Bathys Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/focal/bathys-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "28578",
+    "fullname": "Beyerdynamic DT 700 PRO X",
+    "url": "https://www.rtings.com/headphones/reviews/beyerdynamic/dt-700-pro-x",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "38541",
+    "fullname": "Bowers & Wilkins Pi7 S2 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bowers-wilkins/pi7-s2-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "37448",
+    "fullname": "Audeze Maxwell Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/audeze/maxwell-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "38426",
+    "fullname": "EarFun Air Pro 3 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/earfun/air-pro-3-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "37884",
+    "fullname": "OnePlus Buds Pro 2 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/oneplus/buds-pro-2-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "25060",
+    "fullname": "Status Between Pro True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/status/between-pro-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "38464",
+    "fullname": "Sennheiser HD 660S2",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-660s2",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "37902",
+    "fullname": "JBL Endurance Peak 3 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/endurance-peak-3-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "38908",
+    "fullname": "Sony WH-CH720N Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-ch720n-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "38909",
+    "fullname": "Sony WH-CH520 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wh-ch520-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "38508",
+    "fullname": "Sony Float Run Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/float-run-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "39117",
+    "fullname": "Wyze Wireless Gaming Headset",
+    "url": "https://www.rtings.com/headphones/reviews/wyze/wireless-gaming-headset",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "33240",
+    "fullname": "Skullcandy Sesh ANC True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/sesh-anc-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "38605",
+    "fullname": "Nothing Ear (2) Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/nothing/ear-2-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "34000",
+    "fullname": "Bowers & Wilkins Px7 S2 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bowers-wilkins/px7-s2-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "39425",
+    "fullname": "Jabra Elite 4 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-4-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "39630",
+    "fullname": "Status Between 3ANC True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/status/between-3anc-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "39641",
+    "fullname": "Sony WF-C700N Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wf-c700n-truly-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "39493",
+    "fullname": "Turtle Beach Stealth Pro Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/turtle-beach/stealth-pro-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "39774",
+    "fullname": "MOONDROP Blessing 3",
+    "url": "https://www.rtings.com/headphones/reviews/moondrop/blessing-3",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "39443",
+    "fullname": "Beats Studio Buds + True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/beats/studio-buds-plus-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "38726",
+    "fullname": "Dyson Zone Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/dyson/zone-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "40454",
+    "fullname": "Logitech G PRO X 2 LIGHTSPEED Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/logitech/g-pro-x-2-lightspeed-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "35268",
+    "fullname": "Bowers & Wilkins Px8 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bowers-wilkins/px8-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "39975",
+    "fullname": "Razer BlackShark V2 Pro Wireless 2023",
+    "url": "https://www.rtings.com/headphones/reviews/razer/blackshark-v2-pro-wireless-2023",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "39784",
+    "fullname": "Sony MDR-MV1",
+    "url": "https://www.rtings.com/headphones/reviews/sony/mdr-mv1",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "37904",
+    "fullname": "JBL Vibe Beam True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/vibe-beam-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "40320",
+    "fullname": "Amazon Echo Buds True Wireless 2023 (3rd generation)",
+    "url": "https://www.rtings.com/headphones/reviews/amazon/echo-buds-true-wireless-2023-3rd-generation",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "40553",
+    "fullname": "Razer Hammerhead Pro HyperSpeed True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/razer/hammerhead-pro-hyperspeed-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "40954",
+    "fullname": "Shokz OpenFit True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/shokz/openfit-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "41043",
+    "fullname": "Razer Moray",
+    "url": "https://www.rtings.com/headphones/reviews/razer/moray",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "40825",
+    "fullname": "Anker Soundcore Liberty 4 NC Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-liberty-4-nc-truly-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "40554",
+    "fullname": "HyperX Cloud III",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-iii",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "38974",
+    "fullname": "Sony WF-1000XM5 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/wf-1000xm5-truly-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "40974",
+    "fullname": "Beats Studio Pro Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/beats/studio-pro-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "28494",
+    "fullname": "HiFiMan Arya Stealth Magnet Version",
+    "url": "https://www.rtings.com/headphones/reviews/hifiman/arya-stealth-magnet-version",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "40428",
+    "fullname": "Skullcandy Smokin' Buds/Buds XT True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/smokin-buds-buds-xt-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "40955",
+    "fullname": "Denon PerL Pro True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/denon/perl-pro-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "41794",
+    "fullname": "Corsair HS80 MAX WIRELESS",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/hs80-max-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "37885",
+    "fullname": "JBL Tune Flex True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-flex-true-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "42021",
+    "fullname": "Anker Soundcore Space One Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-space-one-wireless",
+    "testBench": "v1.5"
+  },
+  {
+    "id": "42062",
+    "fullname": "HyperX Cloud III Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/hyperx/cloud-iii-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "42040",
+    "fullname": "Jabra Elite 8 Active True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-8-active-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "42722",
+    "fullname": "Shure AONIC 50 Gen 2 Wireless ",
+    "url": "https://www.rtings.com/headphones/reviews/shure/aonic-50-gen-2-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "44397",
+    "fullname": "Razer BlackShark V2 HyperSpeed Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/razer/blackshark-v2-hyperspeed-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "42041",
+    "fullname": "Jabra Elite 10 True Wireless ",
+    "url": "https://www.rtings.com/headphones/reviews/jabra/elite-10-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "44666",
+    "fullname": "Bose QuietComfort Headphones Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/quietcomfort-headphones-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "40379",
+    "fullname": "TRUTHEAR x Crinacle ZERO",
+    "url": "https://www.rtings.com/headphones/reviews/truthear/x-crinacle-zero",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "44569",
+    "fullname": "Devialet Gemini II True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/devialet/gemini-ii-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "44628",
+    "fullname": "Bose QuietComfort Ultra Earbuds Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/quietcomfort-ultra-earbuds-truly-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "44629",
+    "fullname": "Bose QuietComfort Ultra Headphones Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/quietcomfort-ultra-headphones-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "44430",
+    "fullname": "Audeze MM-100",
+    "url": "https://www.rtings.com/headphones/reviews/audeze/mm-100",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "44919",
+    "fullname": "Corsair VIRTUOSO PRO",
+    "url": "https://www.rtings.com/headphones/reviews/corsair/virtuoso-pro",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "44564",
+    "fullname": "Samsung Galaxy Buds FE Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/samsung/galaxy-buds-fe-truly-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "46014",
+    "fullname": "Skullcandy Dime 3 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/skullcandy/dime-3-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "44483",
+    "fullname": "Sennheiser ACCENTUM Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/accentum-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "46162",
+    "fullname": "Sony INZONE Buds Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/inzone-buds-truly-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "37887",
+    "fullname": "JBL Tune Buds True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-buds-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "40929",
+    "fullname": "Anker Soundcore P25i/P20i True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-p25i-p20i-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "37905",
+    "fullname": "JBL Vibe Buds True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/vibe-buds-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "17499",
+    "fullname": "Bang & Olufsen Beoplay H95 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bang-olufsen/beoplay-h95-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "42060",
+    "fullname": "Sony PULSE Explore Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/pulse-explore-truly-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "1914",
+    "fullname": "Sennheiser HD 25",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-25",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "4903",
+    "fullname": "Beyerdynamic MMX 300 (2nd Generation)",
+    "url": "https://www.rtings.com/headphones/reviews/beyerdynamic/mmx-300-2nd-generation",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "48622",
+    "fullname": "Creative Aurvana Ace 2 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/creative/aurvana-ace-2-true-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "34818",
+    "fullname": "V-MODA Crossfade 3 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/v-moda/crossfade-3-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "50713",
+    "fullname": "Sennheiser HD 490 PRO",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/hd-490-pro",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "27129",
+    "fullname": "AIAIAI TMA-2 DJ",
+    "url": "https://www.rtings.com/headphones/reviews/aiaiai/tma-2-dj",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "48565",
+    "fullname": "Astro A50 X Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/astro/a50-x-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "18014",
+    "fullname": "Pioneer DJ HDJ-CUE1BT Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/pioneer-dj/hdj-cue1bt-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "50264",
+    "fullname": "Bose Ultra Open Earbuds Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/bose/ultra-open-earbuds-truly-wireless",
+    "testBench": "v1.6"
+  },
+  {
+    "id": "42061",
+    "fullname": "Sony PULSE Elite Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/pulse-elite-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "49908",
+    "fullname": "OnePlus Buds 3 Truly Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/oneplus/buds-3-truly-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "49892",
+    "fullname": "Sennheiser MOMENTUM True Wireless 4",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/momentum-true-wireless-4",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "47043",
+    "fullname": "TRUTHEAR x Crinacle ZERO: RED",
+    "url": "https://www.rtings.com/headphones/reviews/truthear/x-crinacle-zero-red",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "49902",
+    "fullname": "Sennheiser ACCENTUM Plus Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/accentum-plus-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "49697",
+    "fullname": "JLab Audio JBuds ANC 3 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jlab-audio/jbuds-anc-3-true-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "40351",
+    "fullname": "Technics EAH-AZ80 True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/technics/eah-az80-true-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "49696",
+    "fullname": "JBL Tune 520BT Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/tune-520bt-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "42587",
+    "fullname": "JBL Live 770NC Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-770nc-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "42586",
+    "fullname": "JBL Live 670NC Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/jbl/live-670nc-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "38133",
+    "fullname": "Sennheiser IE 200",
+    "url": "https://www.rtings.com/headphones/reviews/sennheiser/ie-200",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "57779",
+    "fullname": "Anker Soundcore P40i True Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/anker/soundcore-p40i-true-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "49977",
+    "fullname": "ASUS ROG Cetra True Wireless SpeedNova",
+    "url": "https://www.rtings.com/headphones/reviews/asus/rog-cetra-true-wireless-speednova",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "59890",
+    "fullname": "Beats Solo 4 Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/beats/solo-4-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "58013",
+    "fullname": "Sony ULT WEAR Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sony/ult-wear-wireless",
+    "testBench": "v1.7"
+  },
+  {
+    "id": "60552",
+    "fullname": "Sonos Ace Wireless",
+    "url": "https://www.rtings.com/headphones/reviews/sonos/ace-wireless",
+    "testBench": "v1.7"
+  }
+]
